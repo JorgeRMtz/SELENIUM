@@ -9,7 +9,6 @@ public class HolaMundo {
 		System.out.println("Hola Chema");
 		
 		System.out.println("línea dos from JorgeRMtz");
-r
 		
 	}
 	
